@@ -453,3 +453,7 @@ git pull
 git push -u origin main
 git pull origin main --rebase
 git add .
+git commit -m "Save local changes before pull"
+git pull origin main --rebase
+git push origin main
+git add .
