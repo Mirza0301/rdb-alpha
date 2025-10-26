@@ -441,3 +441,10 @@ sudo apt install gh
 gh auth status
 git init
 git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/Mirza0301/universe.sql.practice.git
+git branch -M main
+git push -u origin main
+gh repo set-default Mirza0301/universe.sql.practice
+gh repo sync --push
+git push -u origin main
