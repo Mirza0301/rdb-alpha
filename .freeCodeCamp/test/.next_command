@@ -400,3 +400,44 @@ git push -u origin main
 git remote set-url origin https://Mirza0301@github.com/Mirza0301/universe.sql.practice.git
 pwd
 git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
+git credential reject
+https://github.com
+git credential reject
+git remote -v
+git auth login
+gh auth login
+gh auth login
+git remote set-url origin https://github.com/Mirza0301/universe.sql.practice.git
+git remote set-url origin https://github.com/Mirza0301/universe.sql.practice.git
+git remote set-url origin https://github.com/Mirza0301/universe.sql.practice.git
+git remote -v
+git push -u origin main
+git remote set-url origin https://github.com/Mirza0301/universe.sql.practice.git
+gh auth login
+git remote remove origin
+git remote -v
+git remote set-url origin https://github.com/Mirza0301/universe.sql.practice.git
+git remote remove origin
+git remove add origin https://github.com/Mirza0301/universe.sql.practice.git
+git remote add origin https://github.com/Mirza0301/universe.sql.practice.git
+git config --global credential.helper store
+git push -u origin main
+Mirza0301
+sudo apt update
+ssudo apt install gh -y
+sudo apt install gh -y
+sudo snap install gh --classic
+sudo apt update
+sudo apt install curl apt-transport-https
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg
+sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main"
+__vsc_prompt_cmd_original
+sudo apt update
+sudo apt install gh
+gh auth status
+git init
+git add .
