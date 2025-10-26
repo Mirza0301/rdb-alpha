@@ -462,3 +462,13 @@ git stash pop
 git push origin main
 __vsc_prompt_cmd_original
 git add .
+git commit -m "Initial commit"
+git push origin main --force
+git remote add origin https://github.com/Mirza0301/universe.sql.practice.git
+git push origin main --force
+pqd
+pwd
+cd /workspace/project
+cd /workspace/project/universe.sql
+git init
+git add .
