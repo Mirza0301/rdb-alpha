@@ -389,3 +389,14 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git init
 git remote add origin https://github.com/Mirza0301/universe.sql.practice.git
 git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
+git remtoe -v
+git remote -v
+git push -u origin main
+git remote set-url origin https://Mirza0301@github.com/Mirza0301/universe.sql.practice.git
+git push -u origin main
+git remote set-url origin https://Mirza0301@github.com/Mirza0301/universe.sql.practice.git
+pwd
+git add .
