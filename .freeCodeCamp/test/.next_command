@@ -448,3 +448,8 @@ git push -u origin main
 gh repo set-default Mirza0301/universe.sql.practice
 gh repo sync --push
 git push -u origin main
+git push -u origin main
+git pull
+git push -u origin main
+git pull origin main --rebase
+git add .
